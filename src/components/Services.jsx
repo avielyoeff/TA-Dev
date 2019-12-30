@@ -11,9 +11,9 @@ export default class Services extends Component {
           <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus.</p>
         </header>
 
-        <div className="row">
+        <div className="row justify-content-center">
 
-          <div className="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-duration="1.4s">
+          <div className="col-md-6 col-lg-5 wow bounceInUp" data-wow-duration="1.4s">
             <div className="box">
               <div className="icon"><i className="ion-ios-analytics-outline" style={{color: '#ff689b'}}></i></div>
               <h4 className="title"><a href="#test">Lorem Ipsum</a></h4>
@@ -28,7 +28,7 @@ export default class Services extends Component {
             </div>
           </div>
 
-          <div className="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+          <div className="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div className="box">
               <div className="icon"><i className="ion-ios-paper-outline" style={{color: '#3fcdc7'}}></i></div>
               <h4 className="title"><a href="#test">Sed ut perspiciatis</a></h4>
@@ -43,7 +43,7 @@ export default class Services extends Component {
             </div>
           </div>
 
-          <div className="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+          <div className="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
             <div className="box">
               <div className="icon"><i className="ion-ios-world-outline" style={{color: '#d6ff22'}}></i></div>
               <h4 className="title"><a href="#test">Nemo Enim</a></h4>
