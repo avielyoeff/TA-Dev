@@ -1422,7 +1422,7 @@ a.scrollto {
   #testimonials .testimonial-item h3,
   #testimonials .testimonial-item h4,
   #testimonials .testimonial-item p {
-    margin-left: 0;
+    margin-right: 0;
   }
 }
 
