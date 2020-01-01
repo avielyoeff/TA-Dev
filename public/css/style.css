@@ -1348,6 +1348,7 @@ a.scrollto {
 # Responsive Media Queries
 --------------------------------------------------------------*/
 
+
 @media (min-width: 992px) {
   #testimonials .testimonial-item p {
     width: 80%;
@@ -1355,7 +1356,7 @@ a.scrollto {
 }
 
 @media (max-width: 991px) {
-  #header {
+    #header {
     height: 60px;
     padding: 10px 0;
   }
@@ -1367,6 +1368,8 @@ a.scrollto {
 
   #intro {
     padding: 140px 0 60px 0;
+      border-bottom-left-radius: 0px;
+      border-top-right-radius: 0px;
   }
 
   #intro .intro-img {
