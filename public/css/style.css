@@ -1350,8 +1350,11 @@ a.scrollto {
 
 
 @media (min-width: 992px) {
+  #testimonials .container{
+  max-width: 1247px;
+  }
   #testimonials .testimonial-item p {
-    width: 80%;
+    width: 62%;
   }
 }
 
