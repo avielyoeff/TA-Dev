@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Header from './components/Header';
-import Intro from './components/Intro'
+import TopSlider from './components/TopSlider'
 import About from './components/About';
 import Services from './components/Services';
 import WhyUs from './components/WhyUs';
@@ -16,7 +16,7 @@ function App() {
   return (
     <>
       <Header />
-      <Intro />
+      <TopSlider />
       <main id="main">
         <About />
         <Services />

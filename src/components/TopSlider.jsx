@@ -34,11 +34,10 @@ const content = [
     }
 ];
 
-export default class Intro extends Component {
+export default class TopSlider extends Component {
     render() {
         return (
-            // autoplay={4000}
-            <Slider  className="slider-wrapper">
+            <Slider autoplay={4000} className="slider-wrapper">
                 {content.map((item, index) => (
                     <div
                         key={index}
