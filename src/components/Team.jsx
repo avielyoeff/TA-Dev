@@ -11,7 +11,7 @@ export default class Team extends Component {
         </div>
 
         <div className="row justify-content-center">
-
+{/* 
           <div className="col-lg-3 col-md-6 wow fadeInUp">
             <div className="member">
               <img src="img/team-1.jpg" className="img-fluid" alt=""/>
@@ -46,25 +46,26 @@ export default class Team extends Component {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
 
-          <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div className="member">
-              <img src="img/team-3.jpg" className="img-fluid" alt=""/>
-              <div className="member-info">
-                <div className="member-info-content">
-                  <h4>William Anderson</h4>
-                  <span>CTO</span>
-                  <div className="social">
-                    <a href="#test"><i className="fa fa-twitter"></i></a>
-                    <a href="#test"><i className="fa fa-facebook"></i></a>
-                    <a href="#test"><i className="fa fa-google-plus"></i></a>
-                    <a href="#test"><i className="fa fa-linkedin"></i></a>
+                <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                  <div className="member">
+                    <div className="card-flip">
+                      <div className="card-front">
+                        <img src="img/profile_tzahi.jpg" className="img-fluid" alt="" />
+                        </div>
+                        <div className="card-back text-white">
+                        <div className="pt-4 px-3">
+                            <h4>Tzahi Ben-Hemo</h4>
+                            <span>CTO</span>
+                            <div>
+                            מנכ"ל החברה בעל ניסיון מעל 10 שנים בפיתוח בניהם רכיבים רבים באתרי אל-על, מגדל- חברת ביטוח,עיריית תל אביב וקופת חולים כללית. מומחה בתחומו יודע לבנות מערכות שלמות מאפס.
+                            </div>
+                            </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
-              </div>
-            </div>
-          </div>
 
           <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
             <div className="member">

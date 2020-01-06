@@ -8,7 +8,9 @@ export default class About extends Component {
 
                     <header className="section-header">
                         <h3>About Us</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>
+                        עיצוב בהתאמה אישית יבדיל אותך ממתחריך ממשק משתמש מעולה יוביל ליותר פניות מהאתר ליווי מקצועי יוביל את העסק שלך לתוצאות הראשונות בגוגל! בניית אתר תדמיתי​ לחברה​,​ בניית אתר מסחר​,​ בניית אתר לעסקים​,​ אינטגרציה למערכות​,​ UX\ UI​,​ עיצוב וממשקי משתמש​,​ בניית פורטל. ועם מינימום צוות שנצרך בשביל ביצוע, אז למה לך להיות השוקי של עולם בניית האתרים?
+                            </p>
                     </header>
 
                     <div className="row about-container">

@@ -15,46 +15,58 @@ export default class Services extends Component {
 
           <div className="col-md-6 col-lg-5 wow bounceInUp" data-wow-duration="1.4s">
             <div className="box">
-              <div className="icon"><i className="ion-ios-analytics-outline" style={{color: '#ff689b'}}></i></div>
-              <h4 className="title"><a href="#test">Lorem Ipsum</a></h4>
-              <p className="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <div className="icon"><i className="ion-ios-pulse" style={{color: '#ff689b'}}></i></div>
+              <h4 className="title"><a href="#test">בניית אתרי תדמית</a></h4>
+              <p className="description">
+              הדבר החשוב ביותר באתר תדמית הוא אתר שבאמת יקדם את העסק וייתן תמורה להשקעה הרבה מבחינה כספית ומחשבה, לכן תכנון מדויק שמלווה באיפיון, הכרת המוצר ועולם התוכן, וביצוע ניתוחי שיווק יביא לכם היתרון גדול על המתחרים!                                    
+                </p>
             </div>
           </div>
           <div className="col-md-6 col-lg-5 wow bounceInUp" data-wow-duration="1.4s">
             <div className="box">
-              <div className="icon"><i className="ion-ios-bookmarks-outline" style={{color: '#e9bf06'}}></i></div>
-              <h4 className="title"><a href="#test">Dolor Sitema</a></h4>
-              <p className="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+              <div className="icon"><i className="ion-ios-cog-outline" style={{color: '#e9bf06'}}></i></div>
+              <h4 className="title"><a href="#test">תחזוקה שוטפת</a></h4>
+              <p className="description">
+              כחלק משירותנו אנחנו נותנים גם תחזוקה שוטפת לכל אתר שקיים, אם יש לכם אתר שקניתם ואתם רוצים רכיבים נוספים או לעדכן ולבצע שינויים נוכל לסייע וללוות אותכם ואף לשפר באופן ניכר ובמסירות רבה!
+                </p>
             </div>
           </div>
 
           <div className="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div className="box">
               <div className="icon"><i className="ion-ios-paper-outline" style={{color: '#3fcdc7'}}></i></div>
-              <h4 className="title"><a href="#test">Sed ut perspiciatis</a></h4>
-              <p className="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <h4 className="title"><a href="#test">בניית דפי נחיתה</a></h4>
+              <p className="description">
+              הצוות המיומן שלנו יבנו לך דף נחיתה מתקדם בו תוכלו להרחיב את רשימת הדיוור, להגדיל את התנועה לאתר, לקדם שירותים ומוצרים, ולהביא ליותר פעילות מצד הלקוחות ועוד!
+              </p>
             </div>
           </div>
           <div className="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div className="box">
               <div className="icon"><i className="ion-ios-speedometer-outline" style={{color: '#41cf2e'}}></i></div>
-              <h4 className="title"><a href="#test">Magni Dolores</a></h4>
-              <p className="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <h4 className="title"><a href="#test">קידום אתרים</a></h4>
+              <p className="description">
+              רוצים אתר עם תנועה גדולה של לקוחות? הגעתם למקום הנכון, באמצעות ניתוח ואיפיון מילות מפתח ובנייה נכונה נאפשר לאתר שלכם לקבל דירוג גבוהה בגוגל ולהופיע בדפים הראשונים ולקבל חשיפה גדולה יותר.
+              </p>
             </div>
           </div>
 
           <div className="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
             <div className="box">
               <div className="icon"><i className="ion-ios-world-outline" style={{color: '#d6ff22'}}></i></div>
-              <h4 className="title"><a href="#test">Nemo Enim</a></h4>
-              <p className="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <h4 className="title"><a href="#test">פרסום גלובלי ובמספר שפות</a></h4>
+              <p className="description">
+              אחד היתרונות הגדולים שלנו הוא היכולת לעבוד במספר שפות ומספר מגזרים, אנחנו יודעים להתאים את הפרסום שלנו בצורה ממומקדת לשפה של הלקוח שלכם, כך למשל אם חשבתם לפרסם בשפה הרוסית ושפות נוספות, אנחנו כאן!
+                </p>
             </div>
           </div>
           <div className="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
             <div className="box">
-              <div className="icon"><i className="ion-ios-clock-outline" style={{color: '#4680ff'}}></i></div>
-              <h4 className="title"><a href="#test">Eiusmod Tempor</a></h4>
-              <p className="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+              <div className="icon"><i className="ion-ios-compose-outline" style={{color: '#4680ff'}}></i></div>
+              <h4 className="title"><a href="#test">ממשק לניהול תוכן</a></h4>
+              <p className="description">
+              אחד מהשירותים המובילים שלנו הוא בניית אתרי אינטרנט חכמים שיודעים להפוך מבקרים ללקוחות. אנו מפתחים במגוון טכנולוגיות וכמובן שכל האתרים שלנו מותאמים לסלולר ולמכשירים ניידים ככלל.
+              </p>
             </div>
           </div>
 
