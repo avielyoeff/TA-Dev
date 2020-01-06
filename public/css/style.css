@@ -381,6 +381,7 @@ a.scrollto {
   color: #fff;
   padding: 10px 20px;
   font-weight: 500;
+  text-align: center;
 }
 
 .mobile-nav a:hover,
@@ -419,7 +420,7 @@ a.scrollto {
   position: fixed;
   right: 0;
   top: 0;
-  z-index: 9998;
+  z-index: 10020;
   border: 0;
   background: none;
   font-size: 24px;
@@ -452,11 +453,15 @@ a.scrollto {
 }
 
 .mobile-nav-active .mobile-nav {
-  left: 0;
+  /* left: 0; */
+  right:0;
 }
 
 .mobile-nav-active .mobile-nav-toggle i {
   color: #fff;
+}
+nav.mobile-nav.d-lg-none ul {
+  margin-top: 20px;
 }
 
 /*--------------------------------------------------------------
