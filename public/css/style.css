@@ -269,7 +269,9 @@ a.scrollto {
 .main-nav > ul > li {
   position: relative;
   white-space: nowrap;
-  float: left;
+  /* float: left; */
+  float: right;
+
 }
 
 .main-nav a {

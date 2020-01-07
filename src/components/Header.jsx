@@ -14,12 +14,12 @@ export default class Header extends Component {
 
                     <nav className="main-nav float-right d-none d-lg-block">
                         <ul>
-                            <li className="active"><a href="#intro">Home</a></li>
-                            <li><a href="#about">About Us</a></li>
-                            <li><a href="#services">Services</a></li>
-                            <li><a href="#portfolio">Portfolio</a></li>
+                            <li className="active"><a href="#intro">עמוד הבית</a></li>
+                            <li><a href="#about">מי אנחנו</a></li>
+                            <li><a href="#services">שירותים</a></li>
+                            <li><a href="#portfolio">תיק עבודות</a></li>
                             <li><a href="#team">Team</a></li>
-                            <li className="drop-down"><a href="#test">Drop Down</a>
+                            {/* <li className="drop-down"><a href="#test">Drop Down</a>
                                 <ul>
                                     <li><a href="#test">Drop Down 1</a></li>
                                     <li className="drop-down"><a href="#test">Drop Down 2</a>
@@ -35,8 +35,8 @@ export default class Header extends Component {
                                     <li><a href="#test">Drop Down 4</a></li>
                                     <li><a href="#test">Drop Down 5</a></li>
                                 </ul>
-                            </li>
-                            <li><a href="#contact">Contact Us</a></li>
+                            </li> */}
+                            <li><a href="#contact">צור קשר</a></li>
                         </ul>
                     </nav>
 
