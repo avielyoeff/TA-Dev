@@ -7,7 +7,7 @@ export default class Contact extends Component {
                 <div className="container-fluid">
 
                     <div className="section-header">
-                        <h3>Contact Us</h3>
+                        <h3>צור קשר</h3>
                     </div>
 
                     <div className="row wow fadeInUp justify-content-center">

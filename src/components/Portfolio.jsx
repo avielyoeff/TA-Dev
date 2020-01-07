@@ -7,7 +7,7 @@ export default class Portfolio extends Component {
       <div className="container">
 
         <header className="section-header">
-          <h3 className="section-title">Our Portfolio</h3>
+          <h3 className="section-title">תיק עבודות</h3>
         </header>
 
         <div className="row">

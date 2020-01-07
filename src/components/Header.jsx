@@ -18,7 +18,7 @@ export default class Header extends Component {
                             <li><a href="#about">מי אנחנו</a></li>
                             <li><a href="#services">שירותים</a></li>
                             <li><a href="#portfolio">תיק עבודות</a></li>
-                            <li><a href="#team">Team</a></li>
+                            <li><a href="#team">הצוות</a></li>
                             {/* <li className="drop-down"><a href="#test">Drop Down</a>
                                 <ul>
                                     <li><a href="#test">Drop Down 1</a></li>

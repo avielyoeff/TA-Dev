@@ -6,7 +6,7 @@ export default class Team extends Component {
             <section id="team">
       <div className="container">
         <div className="section-header">
-          <h3>Team</h3>
+          <h3>הצוות</h3>
           <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
         </div>
 
