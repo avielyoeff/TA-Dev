@@ -7,7 +7,7 @@ export default class About extends Component {
                 <div className="container">
 
                     <header className="section-header">
-                        <h3>About Us</h3>
+                        <h3>מי אנחנו</h3>
                         <p>
                         עיצוב בהתאמה אישית יבדיל אותך ממתחריך ממשק משתמש מעולה יוביל ליותר פניות מהאתר ליווי מקצועי יוביל את העסק שלך לתוצאות הראשונות בגוגל! בניית אתר תדמיתי​ לחברה​,​ בניית אתר מסחר​,​ בניית אתר לעסקים​,​ אינטגרציה למערכות​,​ UX\ UI​,​ עיצוב וממשקי משתמש​,​ בניית פורטל. ועם מינימום צוות שנצרך בשביל ביצוע, אז למה לך להיות השוקי של עולם בניית האתרים?
                             </p>
@@ -17,25 +17,34 @@ export default class About extends Component {
 
                         <div className="col-lg-6 content order-lg-1 order-2">
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            </p>
+                                אז כיצד מתחילים? אנחנו ננתח את הדרישות שלך באמצעות 
+                                איפיון ממוקד, חווית המשתמש - לאילו קהל יעד מופנה האתר, עיצוב וצבעים בהתאם לסוג הלקוחות,
+                                פיתוח מהיר ומותאם למובייל וכמובן קידום האתר בגוגל על מנת להזניק אותכם קדימה!
+                            </p>
 
                             <div className="icon-box wow fadeInUp">
                                 <div className="icon"><i className="fa fa-shopping-bag"></i></div>
-                                <h4 className="title"><a href="#test">Eiusmod Tempor</a></h4>
-                                <p className="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+                                <h4 className="title"><a href="#test">תיק עסקי</a></h4>
+                                <p className="description">
+                                   אנחנו נבנה לך תיק עסקי ונתמוך בך מהתחלה עד סוף התהליך ונשמור איתך על קשר ונתמוך בכל התקלות.
+                                </p>
                             </div>
 
                             <div className="icon-box wow fadeInUp" data-wow-delay="0.2s">
-                                <div className="icon"><i className="fa fa-photo"></i></div>
-                                <h4 className="title"><a href="#test">Magni Dolores</a></h4>
-                                <p className="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                                <div className="icon"><i className="fa fa-shield"></i></div>
+                                <h4 className="title"><a href="#test">אבטחה והבטחה</a></h4>
+                                <p className="description">
+                                    אנחנו נדאג לאבטח את האתר שלך על מנת שאף מתחרה עסקי או גורם עוין לא יפגע 
+                                    בעסק שלך או בלקוחות שלך.
+                                </p>
                             </div>
 
                             <div className="icon-box wow fadeInUp" data-wow-delay="0.4s">
                                 <div className="icon"><i className="fa fa-bar-chart"></i></div>
-                                <h4 className="title"><a href="#test">Dolor Sitema</a></h4>
-                                <p className="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+                                <h4 className="title"><a href="#test">ניתוח ובקרה</a></h4>
+                                <p className="description">
+                                    אנחנו נדאג לנתח ולבקר את האתר/מערכת ולבצע שיפורים על מנת להביא אותך ליעד !
+                                   </p>
                             </div>
 
                         </div>
