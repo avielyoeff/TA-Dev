@@ -7,8 +7,8 @@ export default class Services extends Component {
       <div className="container">
 
         <header className="section-header">
-          <h3>Services</h3>
-          <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus.</p>
+          <h3>שירותים</h3>
+          <p>שירות היא לא מילה גסה! יצירת קשר רציף גם בסוף התהליך יכול לגרום לך לישון בראש שקט, ולדעת שיש מי שדואג לך!</p>
         </header>
 
         <div className="row justify-content-center">
