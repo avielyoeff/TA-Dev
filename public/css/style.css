@@ -1032,6 +1032,15 @@ nav.mobile-nav.d-lg-none ul {
   font-size: 18px;
   margin: 0 2px;
 }
+@media (max-width: 574px) {
+  #intro {
+    padding: 100px 0 20px 0;
+  }
+
+  #team .member > img {
+    width: 100% !important;
+  }
+}
 
 /* Clients Section
 --------------------------------*/
@@ -1438,17 +1447,10 @@ nav.mobile-nav.d-lg-none ul {
   }
 }
 
-@media (max-width: 574px) {
-  #intro {
-    padding: 100px 0 20px 0;
-  }
-}
-
-
 /*
 flip card
 */
-.card-flip > div {
+/* .card-flip > div {
   backface-visibility: hidden;
   transition: transform 300ms;
   transition-timing-function: linear;
@@ -1460,13 +1462,6 @@ flip card
 
 .card-front {
   transform: rotateY(0deg);
-}
-
-
-@media (max-width: 574px) {
-  .card-front > img {
-    width: 100% !important;
-  }
 }
 .card-back {
   transform: rotateY(180deg);
@@ -1481,4 +1476,4 @@ flip card
   
 .card-flip:hover .card-back {
   transform: rotateY(0deg);
-}
+} */

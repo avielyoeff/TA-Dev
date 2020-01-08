@@ -113,13 +113,24 @@
 
   // Testimonials carousel (uses the Owl Carousel library)
   $(".testimonials-carousel").owlCarousel({
-    margin: 50,
     autoplay: true,
     loop: true,
-    items: 3,
-    rtl: true
-
+    rtl: true,
+    responsiveClass:true,    
+    responsive: {
+      0: {
+        items: 1,
+        dots: true,
+      },
+      992: {
+        items: 2,
+        margin: 50,
+      },
+      1200: {
+        items: 3,
+        margin: 50,
+      },
+    }
   });
-
 })(jQuery);
 

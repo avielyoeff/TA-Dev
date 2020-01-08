@@ -48,7 +48,7 @@ export default class Team extends Component {
             </div>
           </div> */}
 
-                <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                {/* <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                   <div className="member">
                     <div className="card-flip">
                       <div className="card-front">
@@ -61,6 +61,21 @@ export default class Team extends Component {
                             <div>
                             מנכ"ל החברה בעל ניסיון מעל 10 שנים בפיתוח בניהם רכיבים רבים באתרי אל-על, מגדל- חברת ביטוח,עיריית תל אביב וקופת חולים כללית. מומחה בתחומו יודע לבנות מערכות שלמות מאפס.
                             </div>
+                            </div>
+                      </div>
+                    </div>
+                  </div>
+                </div> */}
+
+                <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                  <div className="member">
+                    <img src="img/profile_tzahi.jpg" className="img-fluid" alt="" />
+                    <div className="member-info">
+                      <div className="member-info-content text-white px-3">
+                        <h4>Tzahi Ben-Hemo</h4>
+                        <span>CTO</span>
+                        <div>
+                          מנכ"ל החברה בעל ניסיון מעל 10 שנים בפיתוח בניהם רכיבים רבים באתרי אל-על, מגדל- חברת ביטוח,עיריית תל אביב וקופת חולים כללית. מומחה בתחומו יודע לבנות מערכות שלמות מאפס.
                             </div>
                       </div>
                     </div>

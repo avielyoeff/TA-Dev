@@ -11,7 +11,7 @@ export default class Testimonials extends Component {
         </header>
 
         <div className="row justify-content-center">
-          <div className="col-lg-12">
+          <div className="col-12">
 
             <div className="owl-carousel testimonials-carousel wow fadeInUp">
     
